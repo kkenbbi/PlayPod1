@@ -12,6 +12,9 @@
 2. Откройте проект в Xcode.
 3. Для запуска на симуляторе или устройстве iOS нажмите Cmd + R.
 
+[![Watch the video](https://img.youtube.com/vi/kNiuhbnn7oM/0.jpg)](https://www.youtube.com/watch?v=kNiuhbnn7oM)
+
+
 ## Процесс Разработки
 
 Инициализация проекта:
